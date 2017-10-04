@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/yuki/AndroidStudioProjects/Sairium/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/yuki/AndroidStudioProjects/Sairium/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e351a1a484718394b84162b87ec4f486fab0895f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yuki/AndroidStudioProjects/Sairium/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="142c28075c81827aeea794d25b11336c25e1e6fd">
+        <dex dex="/home/yuki/AndroidStudioProjects/Sairium/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_94e23dcacc8b2d8c925a6c1c21761a40c127a7c1/classes.dex" />
+    </item>
+
+</items>
