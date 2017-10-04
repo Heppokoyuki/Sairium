@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yuki/AndroidStudioProjects/Sairium/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/yuki/AndroidStudioProjects/Sairium/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yuki/AndroidStudioProjects/Sairium/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/yuki/AndroidStudioProjects/Sairium/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/yuki/AndroidStudioProjects/Sairium/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/yuki/.android/build-cache/dbafb7c02455f5fe8e28d40c67587c50af22c2ab/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/yuki/AndroidStudioProjects/Sairium/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/yuki/.android/build-cache/dbafb7c02455f5fe8e28d40c67587c50af22c2ab/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/yuki/AndroidStudioProjects/Sairium/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/yuki/.android/build-cache/dbafb7c02455f5fe8e28d40c67587c50af22c2ab/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/yuki/AndroidStudioProjects/Sairium/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/yuki/.android/build-cache/dbafb7c02455f5fe8e28d40c67587c50af22c2ab/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

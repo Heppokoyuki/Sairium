@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/yuki/.android/build-cache/dbafb7c02455f5fe8e28d40c67587c50af22c2ab/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/yuki/.android/build-cache/c50414240101717aea93bc672d5dcf56b02398ed/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/yuki/.android/build-cache/478f84b3a5434d6d45da79eeb0dc966b741ae2e1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/yuki/.android/build-cache/4207340682e98a2c54b10a02ba826c629031a906/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/yuki/.android/build-cache/300f200a24e1db982b7c081588437923ea872400/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/yuki/.android/build-cache/53118af5db4195cfdcbc842fab36e95a1088a93d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/yuki/.android/build-cache/b9044ae07e054f46089ed6d0855592b73c392eb5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/yuki/.android/build-cache/00ac77ec15ce7a82bb563d9e9d59312e8331cf0e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/yuki/.android/build-cache/f6e7e9c4c3f2133dbead48cf7e6763034c89d864/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yuki/.android/build-cache/716ae3cc977fc05e1a5a673703722982b8d47f9e/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:11:9-59
+activity#com.example.yuki.sairium.MainActivity
+ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/yuki/.android/build-cache/dbafb7c02455f5fe8e28d40c67587c50af22c2ab/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/yuki/.android/build-cache/c50414240101717aea93bc672d5dcf56b02398ed/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/yuki/.android/build-cache/478f84b3a5434d6d45da79eeb0dc966b741ae2e1/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/yuki/.android/build-cache/4207340682e98a2c54b10a02ba826c629031a906/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/yuki/.android/build-cache/300f200a24e1db982b7c081588437923ea872400/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/yuki/.android/build-cache/53118af5db4195cfdcbc842fab36e95a1088a93d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/yuki/.android/build-cache/b9044ae07e054f46089ed6d0855592b73c392eb5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/yuki/.android/build-cache/00ac77ec15ce7a82bb563d9e9d59312e8331cf0e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/yuki/.android/build-cache/f6e7e9c4c3f2133dbead48cf7e6763034c89d864/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/yuki/.android/build-cache/716ae3cc977fc05e1a5a673703722982b8d47f9e/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/yuki/.android/build-cache/dbafb7c02455f5fe8e28d40c67587c50af22c2ab/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yuki/AndroidStudioProjects/Sairium/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/yuki/.android/build-cache/dbafb7c02455f5fe8e28d40c67587c50af22c2ab/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/yuki/.android/build-cache/c50414240101717aea93bc672d5dcf56b02398ed/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/yuki/.android/build-cache/478f84b3a5434d6d45da79eeb0dc966b741ae2e1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/yuki/.android/build-cache/4207340682e98a2c54b10a02ba826c629031a906/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/yuki/.android/build-cache/300f200a24e1db982b7c081588437923ea872400/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/yuki/.android/build-cache/53118af5db4195cfdcbc842fab36e95a1088a93d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/yuki/.android/build-cache/b9044ae07e054f46089ed6d0855592b73c392eb5/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/yuki/.android/build-cache/00ac77ec15ce7a82bb563d9e9d59312e8331cf0e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/yuki/.android/build-cache/f6e7e9c4c3f2133dbead48cf7e6763034c89d864/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/yuki/.android/build-cache/dbafb7c02455f5fe8e28d40c67587c50af22c2ab/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/yuki/.android/build-cache/dbafb7c02455f5fe8e28d40c67587c50af22c2ab/output/AndroidManifest.xml:26:9-47

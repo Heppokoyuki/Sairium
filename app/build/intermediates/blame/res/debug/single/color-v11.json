@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yuki/AndroidStudioProjects/Sairium/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/yuki/.android/build-cache/dbafb7c02455f5fe8e28d40c67587c50af22c2ab/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/yuki/AndroidStudioProjects/Sairium/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/yuki/.android/build-cache/dbafb7c02455f5fe8e28d40c67587c50af22c2ab/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
